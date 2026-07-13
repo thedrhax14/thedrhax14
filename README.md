@@ -17,8 +17,8 @@
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats card" width="49%" />
-  <img src="./profile/top-langs.svg" alt="Top languages card" width="49%" />
+  <img src="https://raw.githubusercontent.com/thedrhax14/thedrhax14/output/profile/stats.svg" alt="GitHub stats card" width="49%" />
+  <img src="https://raw.githubusercontent.com/thedrhax14/thedrhax14/output/profile/top-langs.svg" alt="Top languages card" width="49%" />
 </p>
 
 ---
