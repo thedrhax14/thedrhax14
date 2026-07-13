@@ -14,6 +14,13 @@
   <a href="https://www.linkedin.com/in/thedrhax14/">LinkedIn</a>
 </p>
 
+## GitHub Snapshot
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats card" width="49%" />
+  <img src="./profile/top-langs.svg" alt="Top languages card" width="49%" />
+</p>
+
 ---
 
 ## What I Do
@@ -86,10 +93,3 @@ Project page: [LiftMart](https://thedrhax14.me/projects/liftmart.html)
 - Solutions Architecture work
 - Senior Full-Stack or Founding Engineer opportunities
 - Technical leadership on product and platform builds
-
-## GitHub Snapshot
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats card" width="49%" />
-  <img src="./profile/top-langs.svg" alt="Top languages card" width="49%" />
-</p>
